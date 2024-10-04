@@ -32,16 +32,6 @@ see the traffic from there. Burpsuite is an application that works with foxy pro
 within the web browser. I am using OWASP(Open WEb Application secuirty Project) for this example. On the site
 there is a vulnarable web application wich is bWAPP. That will be where I am showing how to do this.
 
-Here are links for setting up virtual box and the 2 application(burpsuite, foxy proxy)...
-
-https://www.youtube.com/watch?v=jHGNLvSpaLs
-
-https://www.youtube.com/watch?v=pfaa9YDypJc&t=315s
-
-https://www.youtube.com/watch?v=sBzL_zoYt6o
-
-
-
 
 
 ![image](https://github.com/user-attachments/assets/cbdcad07-4f92-4c95-aa0a-59cfaeb4f5c3)
@@ -196,34 +186,4 @@ step 5. Execute Query
 
 
 step 6. Fetch result
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
